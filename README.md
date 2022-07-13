@@ -1,0 +1,1 @@
+A minimal jetpack compose application using,room, retrofit,etc.
